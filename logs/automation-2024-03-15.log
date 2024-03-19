@@ -1,0 +1,488 @@
+10:01:09.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:09.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:09.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:39.859 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:43.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:43.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:43.856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:43.904 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:43.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:43.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:43.990 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:44.033 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:45.964 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:45.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:45.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.006 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.180 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.183 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.214 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.270 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.306 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.356 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.399 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.494 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.548 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.554 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.587 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.639 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.686 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.765 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.842 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:46.931 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:46.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:46.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:46.978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.012 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.174 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.211 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.296 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.385 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.467 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.542 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.587 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.617 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.704 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.755 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.784 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:47.828 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:47.830 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:47.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:47.860 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:55.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:55.339 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:55.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:55.370 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:55.425 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:55.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:55.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:55.451 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:55.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:55.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:55.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:55.655 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:01:55.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:01:55.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:01:55.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:01:55.714 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:06:12.798 [main] DEBUG api.tests.UserTests - debugging.....
+10:06:12.916 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:06:15.133 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:06:15.151 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:06:15.171 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+10:08:45.059 [main] DEBUG api.tests.UserTests - debugging.....
+10:08:45.189 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:08:47.988 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:08:48.000 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:08:48.017 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+10:13:25.509 [main] DEBUG api.tests.UserTests - debugging.....
+10:13:25.628 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:13:28.186 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:13:28.199 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:13:28.216 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+10:52:57.537 [main] DEBUG api.tests.UserTests - debugging.....
+10:52:57.655 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:52:59.397 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:52:59.420 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:52:59.443 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+10:58:54.671 [main] DEBUG api.tests.UserTests - debugging.....
+10:58:54.790 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:58:56.234 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:58:56.252 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:58:56.267 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:04:18.751 [main] DEBUG api.tests.UserTests - debugging.....
+11:04:18.902 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:04:20.536 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:04:20.556 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:04:20.578 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:11:36.190 [main] DEBUG api.tests.UserTests - debugging.....
+11:11:36.364 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:11:37.044 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:11:37.070 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:11:37.101 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:17:11.416 [main] DEBUG api.tests.UserTests - debugging.....
+11:17:11.788 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:17:13.140 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:17:13.166 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:17:13.202 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:20:23.881 [main] DEBUG api.tests.UserTests - debugging.....
+11:20:24.011 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:20:24.304 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:20:24.320 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:20:24.338 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:57:36.174 [main] DEBUG api.tests.UserTests - debugging.....
+11:57:36.355 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:57:37.235 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:57:37.250 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:57:37.283 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+12:35:30.849 [main] DEBUG api.tests.UserTests - debugging.....
+12:35:30.980 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:35:32.332 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:35:32.347 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:35:32.378 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+12:51:42.158 [main] DEBUG api.tests.UserTests - debugging.....
+12:51:42.291 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:52:05.348 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:52:05.363 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:52:05.379 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+10:35:22.961 [main] DEBUG api.tests.UserTests - debugging.....
+10:35:23.056 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+10:35:26.018 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+10:35:26.034 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+10:35:26.054 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:06:59.142 [main] DEBUG api.tests.UserTests - debugging.....
+11:06:59.277 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:07:18.439 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:07:18.480 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:07:18.503 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:10:21.202 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+11:10:23.938 [main] DEBUG api.tests.UserTests - debugging.....
+11:10:23.989 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:10:31.645 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:10:31.666 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:10:31.678 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:12:39.832 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+11:12:42.390 [main] DEBUG api.tests.UserTests - debugging.....
+11:12:42.449 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:12:50.521 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:12:50.600 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:12:50.623 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:16:15.684 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+11:16:18.202 [main] DEBUG api.tests.UserTests - debugging.....
+11:16:18.262 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:16:25.772 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:16:25.794 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:16:25.819 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:18:13.570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+11:18:33.065 [main] DEBUG api.tests.UserTests - debugging.....
+11:18:33.168 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:18:57.618 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:18:57.639 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:18:57.655 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:37:36.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+11:37:40.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+11:37:43.714 [main] DEBUG api.tests.UserTests - debugging.....
+11:37:43.867 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:37:47.072 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:37:47.129 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:37:47.183 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:39:23.294 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\AppData\Local\Temp\testng-eclipse--929613041\testng-customsuite.xml"
+11:39:24.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:39:24.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+11:39:24.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+11:39:24.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+11:39:24.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.208 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.209 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.210 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.211 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:39:24.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.232 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+11:39:24.286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 53 ms.
+11:39:24.289 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:39:24.291 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:39:24.320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\AppData\Local\Temp\testng-eclipse--929613041\testng-customsuite.xml
+
+11:39:24.393 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+11:39:25.169 [main] DEBUG api.tests.UserTests - debugging.....
+11:39:25.231 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+11:39:26.173 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+11:39:26.189 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+11:39:26.228 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+11:39:26.842 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6de43bc1: 391 ms
+11:39:26.889 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a592c70: 46 ms
+11:39:26.923 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6629643d: 34 ms
+11:39:26.959 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64f4f12: 36 ms
+11:39:26.984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@62a6674f: 23 ms
+11:39:26.984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@70881123: 0 ms
+12:11:27.374 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+12:11:30.647 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+12:11:32.791 [main] DEBUG api.tests.UserTests - debugging.....
+12:11:32.870 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:11:33.868 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:11:33.889 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:11:33.924 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+12:48:19.950 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+12:48:25.768 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+12:48:29.109 [main] DEBUG api.tests.UserTests - debugging.....
+12:48:29.335 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:48:30.687 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:48:30.715 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:48:30.734 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+12:53:20.941 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+12:53:22.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+12:53:24.293 [main] DEBUG api.tests.UserTests - debugging.....
+12:53:24.400 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:53:25.666 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:53:25.695 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:53:25.719 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+14:05:54.356 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+14:05:56.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+14:05:58.625 [main] DEBUG api.tests.UserTests - debugging.....
+14:05:58.802 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+14:06:02.061 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+14:06:02.079 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+14:06:02.098 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+14:20:36.147 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+14:20:37.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+14:20:39.560 [main] DEBUG api.tests.UserTests - debugging.....
+14:20:39.635 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+14:20:41.454 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+14:20:41.473 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+14:20:41.494 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+14:36:07.666 [main] DEBUG api.tests.UserTests - debugging.....
+14:36:07.738 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+14:36:08.481 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+14:36:08.494 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+14:36:08.525 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+14:40:34.452 [main] DEBUG api.tests.UserTests - debugging.....
+14:40:34.523 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+14:40:35.201 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+14:40:35.222 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+14:40:35.258 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+18:49:32.073 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+18:49:36.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+18:49:38.494 [main] DEBUG api.tests.UserTests - debugging.....
+18:49:38.621 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+18:49:39.763 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+18:49:39.775 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+18:49:39.794 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+18:50:47.658 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+18:50:48.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+18:50:50.322 [main] DEBUG api.tests.UserTests - debugging.....
+18:50:50.400 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+18:50:51.104 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+18:50:51.169 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+18:50:51.199 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+18:52:43.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+18:52:44.910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+18:52:46.509 [main] DEBUG api.tests.UserTests - debugging.....
+18:52:46.573 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+18:52:47.274 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+18:52:47.293 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+18:52:47.316 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+19:00:31.456 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+19:00:32.456 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+19:00:34.123 [main] DEBUG api.tests.UserTests - debugging.....
+19:00:34.259 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+19:00:34.977 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+19:00:34.991 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+19:00:35.011 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+08:56:16.773 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+08:57:10.699 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+08:57:12.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+08:57:15.593 [main] DEBUG api.tests.UserTests - debugging.....
+08:57:15.754 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+08:57:17.560 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+08:57:17.581 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+08:57:17.594 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+09:40:32.501 [main] DEBUG api.tests.UserTests - debugging.....
+09:40:32.685 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+09:40:37.086 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+09:40:37.102 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+09:40:37.126 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+12:45:33.137 [main] DEBUG api.tests.UserTests - debugging.....
+12:45:33.421 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+12:45:46.233 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+12:45:46.258 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+12:45:46.276 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+13:00:50.756 [main] DEBUG api.tests.UserTests - debugging.....
+13:00:50.896 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+13:01:06.759 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+13:01:08.022 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+13:01:09.162 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+13:07:26.306 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml"
+13:07:30.482 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.setup()[pri:0, instance:null] 1426289671
+13:07:30.484 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:07:30.500 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:07:30.501 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:07:30.502 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:07:30.559 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testUpdateUserByName()[pri:3, instance:api.tests.UserTests@319bc845] -361235575
+13:07:30.560 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testDeleteUserByName()[pri:4, instance:api.tests.UserTests@319bc845] -1895162521
+13:07:30.560 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testPostUser()[pri:1, instance:api.tests.UserTests@319bc845] -1274951074
+13:07:30.561 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testGetUserByName()[pri:2, instance:api.tests.UserTests@319bc845] -2133971358
+13:07:30.561 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:07:30.565 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:07:30.565 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:07:30.565 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:07:30.719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipseworkspace\APIAutomation\testng.xml
+
+13:07:35.828 [main] DEBUG api.tests.UserTests - debugging.....
+13:07:35.956 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+13:07:45.894 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+13:07:47.157 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+13:07:48.369 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+13:07:51.614 [main] ERROR org.testng.reporters.jq.Main - C:\Users\admin\eclipseworkspace\APIAutomation\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\admin\eclipseworkspace\APIAutomation\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
+13:07:51.695 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testPostUser()[pri:1, instance:api.tests.UserTests@319bc845] -1274951074
+13:07:51.696 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testGetUserByName()[pri:2, instance:api.tests.UserTests@319bc845] -2133971358
+13:07:51.696 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testUpdateUserByName()[pri:3, instance:api.tests.UserTests@319bc845] -361235575
+13:07:51.696 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testDeleteUserByName()[pri:4, instance:api.tests.UserTests@319bc845] -1895162521
+13:07:51.697 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:07:51.698 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:07:51.699 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:07:51.699 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:20:43.726 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\admin\AppData\Local\Temp\testng-eclipse-1911036330\testng-customsuite.xml"
+13:20:46.611 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13:20:46.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+13:20:46.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.628 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.630 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+13:20:46.664 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.setup()[pri:0, instance:null] 1426289671
+13:20:46.665 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:20:46.674 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:20:46.675 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:20:46.675 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:20:46.676 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+13:20:46.678 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.679 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.683 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.692 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.692 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.694 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.695 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.698 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.699 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.699 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.700 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+13:20:46.710 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testUpdateUserByName()[pri:3, instance:api.tests.UserTests@1a9c38eb] -747082705
+13:20:46.711 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testDeleteUserByName()[pri:4, instance:api.tests.UserTests@1a9c38eb] 2013957645
+13:20:46.712 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testPostUser()[pri:1, instance:api.tests.UserTests@1a9c38eb] -1660798204
+13:20:46.712 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE UserTests.testGetUserByName()[pri:2, instance:api.tests.UserTests@1a9c38eb] 1775148808
+13:20:46.713 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+13:20:46.716 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+13:20:46.717 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+13:20:46.717 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+13:20:46.718 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+13:20:46.723 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.724 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.724 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:46.725 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:46.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\AppData\Local\Temp\testng-eclipse-1911036330\testng-customsuite.xml
+
+13:20:46.835 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 19 ms.
+13:20:47.817 [main] DEBUG api.tests.UserTests - debugging.....
+13:20:47.918 [main] INFO  api.tests.UserTests - ********** Creating user  ***************
+13:20:59.335 [main] INFO  api.tests.UserTests - ********** Reading User Info ***************
+13:21:00.612 [main] INFO  api.tests.UserTests - ********** Updating User ***************
+13:21:01.798 [main] INFO  api.tests.UserTests - **********   Deleting User  ***************
+13:21:03.460 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@305289b3: 0 ms
+13:21:03.658 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4c418496: 195 ms
+13:21:03.827 [main] ERROR org.testng.reporters.jq.Main - C:\Users\admin\eclipseworkspace\APIAutomation\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\admin\eclipseworkspace\APIAutomation\test-output\jquery-3.6.0.min.js
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.copy(Files.java:3161) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.generateReports(TestNG.java:1134) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.TestNG.run(TestNG.java:1072) ~[testng-7.6.1.jar:7.6.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77) ~[testng-remote.jar:?]
