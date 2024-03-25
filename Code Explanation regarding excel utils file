@@ -1,10 +1,10 @@
-This line calculates the number of rows in the Excel sheet. getLastRowNum() returns the index of the last row containing data, 
+Below line calculates the number of rows in the Excel sheet. getLastRowNum() returns the index of the last row containing data, 
 so adding 1 gives the total number of rows. It assumes that the rows are sequentially numbered and there are no empty rows between the first and last rows.
 
 int rowNum = sheet.getLastRowNum() + 1;
 
 int colNum = sheet.getRow(0).getLastCellNum();: 
-This line calculates the number of columns in the Excel sheet. getRow(0) gets the first row (header row), a
+Above line calculates the number of columns in the Excel sheet. getRow(0) gets the first row (header row), a
 and getLastCellNum() returns the index of the last cell in that row plus one, effectively giving the total number of cells (columns) in that row.
 
 data = new String[rowNum][colNum];: This line initializes a 2D array named data to store the data from the Excel sheet. It's sized according to the number of rows and columns in the Excel sheet.
