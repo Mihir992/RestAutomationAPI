@@ -48,7 +48,7 @@ public class ExcelUtils {
 					// Make a call to the method cellToString which actually
 					// converts the cell contents to String
 					String value = cellToString(cell);
-					data[i][j] = value;
+					data[i-1][j] = value;
 					// Logic for handling the data
 					// You can write the logic here, or leave the method as it
 					// is to return a two dimensional array
