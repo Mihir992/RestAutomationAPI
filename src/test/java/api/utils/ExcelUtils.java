@@ -66,6 +66,37 @@ public class ExcelUtils {
 
 	}
 
+	// Method to write data back to Excel
+    public static Object[][] writeDataToExcel(String newUserName, String newPassword) {
+        try {
+            // Get the location of the file
+            String EXCEL_DATA_FilePath = System.getProperty("user.dir") + "//testData//Userdata.xlsx";
+
+            FileInputStream file = new FileInputStream(new File(EXCEL_DATA_FilePath));
+            XSSFWorkbook workbook = new XSSFWorkbook(file);
+            XSSFSheet sheet = workbook.getSheet("Sheet1");
+
+            // Assuming you want to write modified data to the last row
+            int lastRow = sheet.getLastRowNum();
+            XSSFRow row = sheet.createRow(lastRow + 1);
+                 
+         // Set the cell values with the passed newUserName and newPassword
+            row.createCell(0).setCellValue(newUserName);
+            row.createCell(1).setCellValue(newPassword);
+            FileOutputStream outFile = new FileOutputStream(new File(EXCEL_DATA_FilePath));
+            workbook.write(outFile);
+            outFile.close();
+            System.out.println("Data has been written back to Excel successfully.");
+            
+         // Assigning the test data to the 2D object array
+            return new Object[][]{{newUserName, newPassword}};
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+
 	private static String cellToString(XSSFCell cell) {
 		String result = null;
 
