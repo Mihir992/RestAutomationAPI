@@ -22,4 +22,23 @@ public class UserDDTestUsingExcelFile {
         logger.info("Password: " + password);
         logger.info("********** User info is displayed ***************");
     }
+
+	@Test
+    public void testPostUser() {
+		logger= LogManager.getLogger(this.getClass());
+		logger.debug("debugging.....");
+		logger.info("********** Writing User Info ***************");
+		
+	    // Hardcoded values for new username and password
+	    String newUserName = "test5@gmail.com";
+	    String newPassword = "test5@123";
+
+	    // Call the data provider method with the new username and password
+	    ExcelUtils.writeDataToExcel(newUserName, newPassword);
+	    
+	    logger.info("Username: " + newUserName);
+	    logger.info("Password: " + newPassword);
+	    logger.info("********** User info is created ***************");
+    }
+
 }
