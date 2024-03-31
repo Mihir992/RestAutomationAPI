@@ -36,7 +36,7 @@ public class ExcelUtils {
 			int rowNum = sheet.getLastRowNum() + 1;
 			// No of columns in the sheet
 			int colNum = sheet.getRow(0).getLastCellNum();
-			data = new String[rowNum][colNum];
+			data = new String[rowNum-1][colNum];
 			for (int i = 1; i < rowNum; i++) {
 				// Get the row
 				XSSFRow row = sheet.getRow(i);
